@@ -1,0 +1,22 @@
+| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
+|----------|----------|----------|----------|----------|----------|
+| 1        | A        | 3.14     | 10       | Apple    | True     |
+| 2        | B        |          | 20       |          | False    |
+| 3        | C        | 2.718    |          | Banana   | True     |
+|          | D        | 1.414    | 30       | Orange   |          |
+| 5        | E        |          |          |          | False    |
+| 6        | F        | 3.0      | 40       | Pear     | True     |
+| 7        |          | 2.0      |          |          | False    |
+| 8        | H        | 1.0      | 50       | Grape    | True     |
+| 9        | I        |          | 60       |          |          |
+| 10       | J        | 0.5      | 70       | Pineapple| False    |
+| 11       | K        |          |          |          | True     |
+| 12       | L        | 4.0      | 80       | Coconut  |          |
+| 13       | M        | 5.0      |          |          | True     |
+| 14       | N        |          | 90       | Mango    | False    |
+| 15       | O        | 6.0      |          |          | True     |
+| 16       | P        | 7.0      | 100      | Papaya   | False    |
+| 17       | Q        |          | 110      |          | True     |
+| 18       | R        | 8.0      | 120      | Kiwi     | False    |
+| 19       | S        |          |          |          | True     |
+| 20       | T        | 9.0      | 130      | Watermelon| False    |
